@@ -1,5 +1,5 @@
 ---
-title: "GRCI - README"
+title: "Globally robust confidence intervals"
 author: "Matias Salibian"
 date: "July 25, 2016"
 output: github_document
@@ -9,7 +9,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Globally robust confidence intervals for simple linear regression models
+##Globally robust confidence intervals for simple linear regression models
 
 This repository contains `R` code implementing 
 the 

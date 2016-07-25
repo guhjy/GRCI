@@ -1,10 +1,10 @@
-GRCI - README
+Globally robust confidence intervals
 ================
 Matias Salibian
 July 25, 2016
 
 Globally robust confidence intervals for simple linear regression models
-========================================================================
+------------------------------------------------------------------------
 
 This repository contains `R` code implementing the globally robust confidence intervals for the slope of a simple linear regression model as proposed in [Adrover, J. and Salibian-Barrera, M. (2010)](http://dx.doi.org/10.1016/j.csda.2009.05.005).
 
